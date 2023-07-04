@@ -1,3 +1,3 @@
 <div align="center">
-    <h1><i>👨‍💻Coding Practice</i>></h1>
+    <h1><i>👨‍💻Coding Practice</i></h1>
 </div>
