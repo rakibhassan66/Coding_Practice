@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #2E8B57; /* Greenish color (SeaGreen) */
+  }
+  
+  p.rest-of-line {
+    color: #8B0000; /* Dark red color */
+  }
+  
