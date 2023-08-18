@@ -1,0 +1,8 @@
+D:\Code Works\C#\Variable\Variable\bin\Debug\Variable.exe.config
+D:\Code Works\C#\Variable\Variable\bin\Debug\Variable.exe
+D:\Code Works\C#\Variable\Variable\bin\Debug\Variable.pdb
+D:\Code Works\C#\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+D:\Code Works\C#\Variable\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
+D:\Code Works\C#\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+D:\Code Works\C#\Variable\Variable\obj\Debug\Variable.exe
+D:\Code Works\C#\Variable\Variable\obj\Debug\Variable.pdb
