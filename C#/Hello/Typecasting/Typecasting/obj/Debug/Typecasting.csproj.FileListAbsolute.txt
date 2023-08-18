@@ -1,0 +1,8 @@
+D:\Code Works\C#\Typecasting\Typecasting\bin\Debug\Typecasting.exe.config
+D:\Code Works\C#\Typecasting\Typecasting\bin\Debug\Typecasting.exe
+D:\Code Works\C#\Typecasting\Typecasting\bin\Debug\Typecasting.pdb
+D:\Code Works\C#\Typecasting\Typecasting\obj\Debug\Typecasting.csproj.AssemblyReference.cache
+D:\Code Works\C#\Typecasting\Typecasting\obj\Debug\Typecasting.csproj.SuggestedBindingRedirects.cache
+D:\Code Works\C#\Typecasting\Typecasting\obj\Debug\Typecasting.csproj.CoreCompileInputs.cache
+D:\Code Works\C#\Typecasting\Typecasting\obj\Debug\Typecasting.exe
+D:\Code Works\C#\Typecasting\Typecasting\obj\Debug\Typecasting.pdb
