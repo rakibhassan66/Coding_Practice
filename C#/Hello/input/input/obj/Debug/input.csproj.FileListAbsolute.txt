@@ -1,0 +1,8 @@
+D:\Code Works\C#\input\input\bin\Debug\input.exe.config
+D:\Code Works\C#\input\input\bin\Debug\input.exe
+D:\Code Works\C#\input\input\bin\Debug\input.pdb
+D:\Code Works\C#\input\input\obj\Debug\input.csproj.AssemblyReference.cache
+D:\Code Works\C#\input\input\obj\Debug\input.csproj.SuggestedBindingRedirects.cache
+D:\Code Works\C#\input\input\obj\Debug\input.csproj.CoreCompileInputs.cache
+D:\Code Works\C#\input\input\obj\Debug\input.exe
+D:\Code Works\C#\input\input\obj\Debug\input.pdb
