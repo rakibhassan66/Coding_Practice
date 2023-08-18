@@ -1,0 +1,8 @@
+D:\Code Works\C#\datatypes\datatypes\bin\Debug\datatypes.exe.config
+D:\Code Works\C#\datatypes\datatypes\bin\Debug\datatypes.exe
+D:\Code Works\C#\datatypes\datatypes\bin\Debug\datatypes.pdb
+D:\Code Works\C#\datatypes\datatypes\obj\Debug\datatypes.csproj.AssemblyReference.cache
+D:\Code Works\C#\datatypes\datatypes\obj\Debug\datatypes.csproj.SuggestedBindingRedirects.cache
+D:\Code Works\C#\datatypes\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+D:\Code Works\C#\datatypes\datatypes\obj\Debug\datatypes.exe
+D:\Code Works\C#\datatypes\datatypes\obj\Debug\datatypes.pdb
